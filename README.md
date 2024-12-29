@@ -9,7 +9,7 @@ The Online Library System is a React-based application that allows users to brow
 
 # Installation
 1. Clone the repository:
-    * git clone https://github.com/Charu-30/ToDo-List-App.git
+    * git clone https://github.com/Charu-30/Online-Library-System.git
 
 2. Navigate to the project directory:
     * cd vite-project
@@ -28,9 +28,9 @@ The Online Library System is a React-based application that allows users to brow
    * Click on categories to explore books.
 
 2.  **Browse Books:**
-   * Search for books by title or author.
-   * Filter books by category.
-   * Click on "View Details" to see more about a specific book.
+    * Search for books by title or author.
+    * Filter books by category.
+    * Click on "View Details" to see more about a specific book.
 
 3. **Book Details:**
    * View comprehensive details of a book.
